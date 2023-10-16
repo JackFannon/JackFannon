@@ -1,4 +1,4 @@
-<p align="center"><a href="https://jackfannon.github.io"><img width="100%" alt="Hello, I'm Jack!" src="./assets/github-header-image.png" /></a></p>
+<p align="center"><a href="https://guthib.com"><img width="100%" alt="Hello, I'm Jack!" src="./assets/github-header-image.png" /></a></p>
 
 <br />
 
