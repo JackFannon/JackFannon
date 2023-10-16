@@ -8,6 +8,10 @@ I'm a PhD student researching particle physics.
 
 - 💼 High energy particle physics PhD student at The University of Sheffield
 
+- 💦 Research focused on the detection of neutrinos using water Cherenkov detectors: Hyper-Kamiokande and Super-Kamiokande
+
+- 🧐 Currently developing a diffuse supernova neutrino background analysis for Hyper-Kamiokande
+
 - 💬 Ask me about anything [here](https://github.com/jackfannon/jackfannon/issues)
 
 <code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
